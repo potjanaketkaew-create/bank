@@ -61,6 +61,3 @@ garage = [Car("Toyota"), ElectricCar("BYD", 60), Truck("Volvo")]
 # print(f'Car is moving? {my_car.is_moving}')
 # my_car.apply_brake()
 # print(f'Car is moving? {my_car.is_moving}')
-
-
-#addd
